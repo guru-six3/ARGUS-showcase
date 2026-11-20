@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">ARGUS · See beyond numbers</title><desc id="desc">A public product showcase. Financial intelligence, explained. Source stays private.</desc>
-<defs><linearGradient id="bg"><stop stop-color="#2B2118"/><stop offset="1" stop-color="#3A2C21"/></linearGradient></defs>
-<rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="428" rx="19" fill="none" stroke="#8B5E34"/>
-<path d="M58 58H104" stroke="#C4974A" stroke-width="3"/>
-<text x="120" y="63" fill="#D9C2A3" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PRODUCT / ENGINEERING SHOWCASE</text>
-<text x="49" y="233" fill="#F6F1E8" font-family="Georgia,serif" font-size="144" letter-spacing="5">ARGUS</text>
-<text x="60" y="287" fill="#C4974A" font-family="Arial,sans-serif" font-size="20" letter-spacing="5">SEE BEYOND NUMBERS</text>
-<path d="M60 337H1140" stroke="#8B5E34"/>
-<text x="60" y="382" fill="#D9C2A3" font-family="Arial,sans-serif" font-size="19">Financial intelligence, explained.</text>
-<text x="1138" y="382" text-anchor="end" fill="#D9C2A3" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BY GURU</text>
-<g fill="none" stroke="#C4974A" opacity=".5"><circle cx="1000" cy="200" r="92"/><circle cx="1000" cy="200" r="58"/><path d="M908 200H1092M1000 108V292" stroke-dasharray="2 8"/><circle cx="1000" cy="200" r="6" fill="#C4974A"/></g>
+<defs><linearGradient id="bg"><stop stop-color="#111218"/><stop offset="1" stop-color="#20212B"/></linearGradient></defs>
+<rect width="1200" height="430" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="428" rx="19" fill="none" stroke="#55516E"/>
+<path d="M58 58H104" stroke="#B6A1FF" stroke-width="3"/>
+<text x="120" y="63" fill="#C1BDD1" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PRODUCT / ENGINEERING SHOWCASE</text>
+<text x="49" y="233" fill="#F4F2FF" font-family="Georgia,serif" font-size="144" letter-spacing="5">ARGUS</text>
+<text x="60" y="287" fill="#B6A1FF" font-family="Arial,sans-serif" font-size="20" letter-spacing="5">SEE BEYOND NUMBERS</text>
+<path d="M60 337H1140" stroke="#55516E"/>
+<text x="60" y="382" fill="#C1BDD1" font-family="Arial,sans-serif" font-size="19">Financial intelligence, explained.</text>
+<text x="1138" y="382" text-anchor="end" fill="#C1BDD1" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BY GURU</text>
+<g fill="none" stroke="#B6A1FF" opacity=".5"><circle cx="1000" cy="200" r="92"/><circle cx="1000" cy="200" r="58"/><path d="M908 200H1092M1000 108V292" stroke-dasharray="2 8"/><circle cx="1000" cy="200" r="6" fill="#B6A1FF"/></g>
 </svg>
