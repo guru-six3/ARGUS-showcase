@@ -1,4 +1,4 @@
-<img src="./assets/argus-cover.svg" alt="ARGUS. See beyond numbers. Financial intelligence, explained." width="100%" />
+<img src="./assets/argus-cover-graphite.svg" alt="ARGUS. See beyond numbers. Financial intelligence, explained." width="100%" />
 
 <p align="center">
   <a href="#watch-the-demo">Watch the demo</a> &nbsp; · &nbsp;
