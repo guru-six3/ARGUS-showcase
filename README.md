@@ -1,6 +1,7 @@
 <img src="./assets/argus-cover.svg" alt="ARGUS. See beyond numbers. Financial intelligence, explained." width="100%" />
 
 <p align="center">
+  <a href="#watch-the-demo">Watch the demo</a> &nbsp; · &nbsp;
   <a href="#the-product">The product</a> &nbsp; · &nbsp;
   <a href="#engineering-decisions">Engineering decisions</a> &nbsp; · &nbsp;
   <a href="#technical-evaluation">Technical evaluation</a>
@@ -15,6 +16,39 @@ financial record with understandable context: what changed, which budget needs
 attention, and where eligible spending happened.
 
 Built with **React Native, TypeScript, Node.js and PostgreSQL**.
+
+## Watch the demo
+
+**[Watch / download the 3:19 ARGUS walkthrough](https://github.com/guru-six3/ARGUS-showcase/releases/download/demo-v1/ARGUS-Demo-Walkthrough.mp4)**
+
+<p align="center">
+  <a href="https://github.com/guru-six3/ARGUS-showcase/releases/download/demo-v1/ARGUS-Demo-Walkthrough.mp4"><img src="./assets/screenshots/dashboard.jpg" alt="Open the ARGUS demo video. Dashboard displaying synthetic demonstration records." width="250" /></a>
+  <br /><sub>Click the preview to open the MP4. <a href="https://github.com/guru-six3/ARGUS-showcase/releases/tag/demo-v1">Release page</a></sub>
+</p>
+
+The recording shows manual entry, choosing an expense location, Financial Journey,
+Month in Motion and transaction review. The owner has confirmed that the amounts,
+merchants and locations are **synthetic demonstration data**, not personal financial history.
+
+This is a silent, edited excerpt of the supplied application recording. Sign-in
+and notification-shade segments have been removed; the original stays private.
+The video demonstrates these workflows, not every feature or production-provider integration.
+
+## Inside the application
+
+These are actual frames from the supplied recording, not generated UI mockups.
+Only the black recording borders were removed; application content was not altered.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="./assets/screenshots/dashboard.jpg" alt="ARGUS dashboard with synthetic income, expenses, balance and Journey preview." width="250" /><br /><strong>01 · Financial overview</strong><br /><sub>Confirmed income, expenses and balance.</sub></td>
+    <td align="center" width="50%"><img src="./assets/screenshots/choose-location.jpg" alt="Interactive expense map picker with an explicit Confirm location button." width="250" /><br /><strong>02 · Choose a location</strong><br /><sub>An optional point the user explicitly confirms.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/screenshots/month-in-motion.jpg" alt="Month in Motion map showing synthetic transaction stops and playback controls." width="250" /><br /><strong>03 · Month in Motion</strong><br /><sub>Reconstructed routes, not actual GPS travel history.</sub></td>
+    <td align="center"><img src="./assets/screenshots/capture-review.jpg" alt="Capture review with synthetic merchant, date, editable category and validation evidence before confirmation." width="250" /><br /><strong>04 · Review before saving</strong><br /><sub>Inspect and correct extracted evidence.</sub></td>
+  </tr>
+</table>
 
 ### A record you can understand
 
